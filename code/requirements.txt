@@ -1,0 +1,14 @@
+ipython
+joblib
+numpy
+pydot
+scikit_learn
+scipy
+h5py
+matplotlib
+pandas
+pandas_stubs
+scikit_posthocs
+seaborn
+statsmodels
+tqdm
