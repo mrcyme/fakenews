@@ -1,4 +1,4 @@
-# %% FAKE NEWS demo
+# FAKE NEWS demo
 
 
 The idea is to recreate an UI for the following experiment and to extend it with : 
