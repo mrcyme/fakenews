@@ -21,7 +21,7 @@ AI summary :
 This experimental setup describes a study designed to test how algorithmic approaches can help improve collective decision-making while mitigating individual and group biases. The researchers created an online platform where participants evaluate whether news headlines are real or fake, particularly headlines involving sensitive characteristics like gender, ethnicity, and age. Each participant sees a set of 48 headlines (balanced across different sensitive groups and between real/fake) and rates how likely each headline is to be real on a 5-point scale from "very unlikely" to "very likely." The experiment will recruit 200 paid participants through Prolific. The collected responses will be used to compare different aggregation algorithms (including EXP4, MetaCMAB, and simple averaging) to see which best combines individual judgments into accurate collective decisions. Preliminary results with 85 voluntary participants showed that the MetaCMAB algorithm generally outperformed other approaches. Beyond testing algorithm performance, the study will examine patterns in how different demographic groups respond, whether response times correlate with accuracy, and if diverse groups make better collective decisions than homogeneous ones. This setup allows testing both the technical performance of aggregation algorithms and broader questions about human bias and collective intelligence.
 
 
-More info can be read in the [paper](./Fake_new_paper.pdf).
+More info can be read in the [paper](./Fake_news_paper.pdf).
 
 AI summary : 
 
